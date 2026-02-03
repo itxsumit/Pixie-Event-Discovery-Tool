@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/apache-log4j-2.25.3-bin/log4j-core-2.25.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/commons-collections4-4.5.0-bin/commons-collections4-4.5.0/commons-collections4-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/apache-log4j-2.25.3-bin/log4j-api-2.25.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/commons-io-2.21.0-bin (3)/commons-io-2.21.0/commons-io-2.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/commons-compress-1.28.0-bin (1)/commons-compress-1.28.0/commons-compress-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/poi-ooxml-5.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/poi-5.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/jsoup-1.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sumit/Downloads/poi-ooxml-full-5.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
